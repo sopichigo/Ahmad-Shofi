@@ -1,0 +1,6 @@
+{
+  "name": "ClipCraft AI - Smart Video Clipper & CapCut Studio",
+  "description": "AI-powered video clipper and CapCut-style manual editor with auto-captions, highlight detection, revisions, and multi-track timeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
